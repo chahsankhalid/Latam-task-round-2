@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="111" height="22" viewBox="0 0 111 22">
+  <g id="Logo" transform="translate(155 -17)">
+    <text id="Trends" transform="translate(-125 34)" fill="#333" font-size="18" font-family="Arial-BoldMT, Arial" font-weight="700" letter-spacing="0.075em"><tspan x="0" y="0">TRENDS</tspan></text>
+    <g id="Group_116" data-name="Group 116" transform="translate(0 -1)">
+      <circle id="Ellipse_3" data-name="Ellipse 3" cx="3" cy="3" r="3" transform="translate(-139 18)" fill="#1c69d4"/>
+      <circle id="Ellipse_8" data-name="Ellipse 8" cx="2" cy="2" r="2" transform="translate(-138 27)" fill="#1c69d4"/>
+      <circle id="Ellipse_11" data-name="Ellipse 11" cx="3" cy="3" r="3" transform="translate(-139 34)" fill="#1c69d4"/>
+      <circle id="Ellipse_4" data-name="Ellipse 4" cx="2" cy="2" r="2" transform="translate(-146 19)" fill="#1c69d4"/>
+      <circle id="Ellipse_7" data-name="Ellipse 7" cx="3" cy="3" r="3" transform="translate(-147 26)" fill="#1c69d4"/>
+      <circle id="Ellipse_10" data-name="Ellipse 10" cx="2" cy="2" r="2" transform="translate(-146 35)" fill="#1c69d4"/>
+      <circle id="Ellipse_5" data-name="Ellipse 5" cx="3" cy="3" r="3" transform="translate(-155 18)" fill="#1c69d4"/>
+      <circle id="Ellipse_6" data-name="Ellipse 6" cx="2" cy="2" r="2" transform="translate(-154 27)" fill="#1c69d4"/>
+      <circle id="Ellipse_9" data-name="Ellipse 9" cx="3" cy="3" r="3" transform="translate(-155 34)" fill="#1c69d4"/>
+    </g>
+  </g>
+</svg>

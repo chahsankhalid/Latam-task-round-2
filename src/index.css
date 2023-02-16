@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#loginpage {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #8080802b;
+}
+
+.login-div {
+  width: 35%;
+  background: white;
+  padding: 50px;
+}
+
+.form-control{
+  border-radius: 0 !important;
+}
+.ant-btn-primary {
+  width: 100%;
+  height: 36px;
+  border-radius: 0;
+}
+
+.mainlogo {
+  margin-bottom: 10%;
+}
+
+@media only screen and (max-width: 768px) {
+  .login-div {
+    width: 90%;
+  }
+}
