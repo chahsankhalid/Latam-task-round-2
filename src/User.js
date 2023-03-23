@@ -332,7 +332,7 @@ export default function User() {
                 </div>
               </form>
             </Tabs.TabPane>
-            <Tabs.TabPane tab="Output" key="output" disabled={true}>
+            <Tabs.TabPane tab="Output" key="output" disabled={false}>
               <div className="container">
                 <div className="row">
                   <div className="col-md-6 outputdivs">
